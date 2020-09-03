@@ -1,0 +1,22 @@
+{
+  "name": "html-layouting-boilerplate",
+  "version": "1.0.0",
+  "description": "A simple starter for build html layouting with handlebar and scss",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdheDwi/html-layouting-boilerplate.git"
+  },
+  "keywords": [
+    "html"
+  ],
+  "author": "adhe dwi w",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdheDwi/html-layouting-boilerplate/issues"
+  },
+  "homepage": "https://github.com/AdheDwi/html-layouting-boilerplate#readme"
+}
